@@ -15,8 +15,8 @@ geometry: margin=1in
 
 ## Authors
 
-- @Mariia - sg_paic - https://github.com/MariiaDen
-- @EnricoD - sg_paic - https://github.com/edab
+- @Mariia - sg_spaic - https://github.com/MariiaDen
+- @EnricoD - sg_spaic - https://github.com/edab
 
 ## Implementation
 
